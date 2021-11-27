@@ -1,0 +1,21 @@
+body {
+    background-color: #FFFFFF;
+    text-align: center;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style:normal ;
+}
+
+.doksleep img {
+    position: absolute;
+    display: block;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    margin-top: 160px;
+    blink
+}
+
+.social {
+    
+}
